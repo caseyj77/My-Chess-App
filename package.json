@@ -1,0 +1,25 @@
+{
+  "name": "my-chess-app",
+  "version": "1.0.0",
+  "description": "Anyalize chess games from lichess or chess.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caseyj77/My-Chess-App.git"
+  },
+  "author": "Casey Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caseyj77/My-Chess-App/issues"
+  },
+  "homepage": "https://github.com/caseyj77/My-Chess-App#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
